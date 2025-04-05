@@ -1,26 +1,15 @@
-# こんにちは！sy-soniaです！🎉
+## Hi there 👋
 
-## 自己紹介 🤗
+- 🔑 I'm in the process of changing jobs.
+- 🌱 I’m currently learning TypeScript, Python, Next.js, Django.
 
-現在は医療事務として勤務しながら、エンジニアへのキャリアチェンジを目指して学習に励んでいます📚。
-これまでに学んだTypeScript、Next.js、Python（特にDjango）などの技術を復習し、フロントエンドとバックエンド両方のスキルをさらに磨いていきたいと考えています💪✨。
-また、視野を狭めず挑戦できるエンジニア分野があればチャレンジします！！
 
-## スキル 🚀
+## Skills
 
-- **フロントエンド:** TypeScript, Next.js, React.js, JavaScript, HTML, CSS 🎨
-- **バックエンド:** Python（特にDjango）, Node.js, Express, REST APIs ⚙️
-- **データベース:** MySQL, Prisma, Firebase（習得中）🗄️
-- **開発環境/ツール:** GitHub, Docker, VSCode 🛠️
+**Frontend:** TypeScript, Next.js, React.js, JavaScript, HTML, CSS
 
-## 学習中のこと 📖
+**Backend:** Node.js, Express
 
-- フロントエンドの基本をしっかりと学びながら、バックエンドAPIの設計と実装にも取り組んでいます 🔍
+**Database:** MySQL, Prisma
 
-## 今後の目標 🎯
-
-これまでの経験を活かし、エンジニアとしての知識・技術を深め、苦手分野を克服して、成長していきたいと思っています🔥。
-
----
-
-**最後に:** 少しずつでも諦めずに成長していきます！🌱💖💪
+**DevOps & Tools:** GitHub, Docker, VSCode
